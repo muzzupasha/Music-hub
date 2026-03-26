@@ -8,7 +8,7 @@ function page() {
         <h2 className='text-center' >All Courses {courseData.courses.length}</h2>
         <div className='flex flex-wrap justify-center'>
             {courseData.courses.map((course) => (
-                <GlareCard className="m-5 mt-5 flex flex-col items-center justify-center">
+                <GlareCard key={course.id} className="m-5 mt-5 flex flex-col items-center justify-center">
                 <svg
                   width="66"
                   height="65"

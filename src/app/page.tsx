@@ -1,5 +1,5 @@
 import Hero from "@/components/Hero";
-import Image from "next/image";
+
 import Feuture from "@/components/Feuture";
 import Sticky from "@/components/Sticky";
 import Flip from "@/components/Flip";

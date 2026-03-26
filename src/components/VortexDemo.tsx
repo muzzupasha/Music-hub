@@ -10,7 +10,7 @@ export function VortexDemo() {
         className="flex items-center flex-col justify-center px-2 md:px-10 py-4 w-full h-full"
       >
         <h2 className="text-white text-2xl md:text-6xl font-bold text-center">
-          It's all about music
+          It&apos;s all about music
         </h2>
         <p className="text-white text-sm md:text-2xl max-w-xl mt-6 text-center">
         “Music can change the world because it can change people.”
