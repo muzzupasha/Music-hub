@@ -1,0 +1,18 @@
+commit b60aa360690c59e4c4c7b51f3ca05874eccaeaea
+Author: Muzzu Pasha <muzahirraza509@gmail.com>
+Date:   Thu Mar 26 23:42:46 2026 +0530
+
+    feat: Introduce a collection of UI components and establish the initial Next.js application structure.
+
+diff --git a/package.json b/package.json
+index 9ecd4be..5fde0d5 100644
+--- a/package.json
++++ b/package.json
+@@ -13,6 +13,7 @@
+     "@tsparticles/react": "^3.0.0",
+     "@tsparticles/slim": "^3.8.1",
+     "clsx": "^2.1.1",
++    "framer-motion": "^12.38.0",
+     "mini-svg-data-uri": "^1.4.4",
+     "motion": "^12.4.7",
+     "next": "15.1.7",
